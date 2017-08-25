@@ -4,18 +4,18 @@ paginate: 10
 markdown: kramdown
 
 # 作者信息
-author: 
-  name: 李乾坤
-  email: qiankun.li@qq.com
-  link: 
-  weibo: 
-  github: http://qiankunli.github.io
+author:
+  name:  赵俊良
+  email: zhaoic@163.com
+  link:
+  weibo:
+  github: http://zhaoic.github.io
 
 # 站点信息
-title: 李乾坤的博客 
-description: 李乾坤的博客
-url: http://qiankunli.github.io
-rss_url: 
+title: 赵俊良的博客
+description: 赵俊良的博客
+url: http://zhaoic.github.io
+rss_url:
 
 # gavatar头像及Favicon
 gavatar: /public/upload/gavatar/gavatar.jpg
@@ -23,18 +23,18 @@ favicon: /public/upload/gavatar/favicon.ico
 
 # google analytics 设置
 ga:
-  id: 
-  url: 
+  id:
+  url:
 
 # disqus 设置
 disqus:
-  shortname: qiankunli
+  shortname: zhaoic
 
 # 主题设置，自动激活某个标签
 active: 技术
 
 # 首页除了最新文章外显示分类
-cates: 
+cates:
   - Docker
   - Java
 
